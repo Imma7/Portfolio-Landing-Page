@@ -19,6 +19,7 @@
     background: lightgrey;
     color: black;
 }
-#head1{
-    
+.navbar ul{
+    list-style-type: none;
+    margin: 0;
 }
