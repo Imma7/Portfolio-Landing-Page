@@ -23,8 +23,17 @@
     list-style-type: none;
     margin: 0;
 }
+.column{
+    float: left;
+}
 img{
     float: right;
     height: 700px;
     width: 100%;
+}
+.link{
+    text-decoration: none;
+}
+.link li{
+    text-decoration: none;
 }
