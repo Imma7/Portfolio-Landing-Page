@@ -27,11 +27,9 @@ img{
     height: auto;
     width: 100%;
 }
-.link{
+#link ol li{
     text-decoration: none;
-}
-.link li{
-    text-decoration: none;
+    color: black;
 }
 #head1{
     border: 2px solid black; 
