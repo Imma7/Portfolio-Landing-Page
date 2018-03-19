@@ -27,10 +27,6 @@ img{
     height: auto;
     width: 100%;
 }
-#link ol li{
-    text-decoration: none;
-    color: black;
-}
 #link ol li a{
     text-decoration: none;
 }
@@ -41,4 +37,9 @@ img{
 }
 body{
     font-family: sans-serif;
+}
+a:hover{
+    font-size: 30px;
+    color: lightgrey;
+    background-color: red;
 }
