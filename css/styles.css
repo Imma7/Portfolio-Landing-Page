@@ -40,6 +40,9 @@ body{
 }
 a:hover{
     font-size: 30px;
-    color: lightgrey;
-    background-color: red;
+    color: black;
+    background-color: lightgrey;
+}
+a:visited{
+    color: black;
 }
