@@ -9,11 +9,11 @@
 }
 .navbar a{
     text-decoration: none;
-    float: left;
     color: white;
     display: block;
     padding: 15px;
     text-align: center;
+    float: left;
 }
 .navbar a:hover{
     background: lightgrey;
@@ -23,14 +23,9 @@
     list-style-type: none;
     margin: 0;
 }
-.column{
-    float: left;
-}
 img{
-    float: left;
-    height: 700px;
+    height: auto;
     width: 100%;
-    
 }
 .link{
     text-decoration: none;
